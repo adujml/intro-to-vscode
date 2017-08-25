@@ -1,0 +1,17 @@
+/* Credits
+Photo by Christopher Jenseth on Unsplash
+*/
+
+body { 
+    background-image: url("../images/landing/background-image.jpg") ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.NameCard {
+    color: white;
+    text-align: center;
+    background: yellow;
+}
